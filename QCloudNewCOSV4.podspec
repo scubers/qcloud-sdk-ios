@@ -22,6 +22,6 @@ TODO: Add long description of the pod here.aaa
   s.ios.deployment_target = '8.0'
   s.source_files = 'QCloudNewCOSV4/Pod/Classes/**'
 
-  s.dependency 'QCloudCore','5.3.2'
+  s.dependency 'QCloudCore','5.4.4'
 
 end
